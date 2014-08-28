@@ -1,0 +1,6 @@
+Dow Jones	COMPANY	ORGANIZATION
+Amex	COMPANY
+Standard & Poor's	COMPANY
+General Electric	COMPANY
+I.B.M.	COMPANY
+Big Board	COMPANY	NAME
